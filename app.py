@@ -83,3 +83,4 @@ if uploaded_image is not None:
         f'</div>',
         unsafe_allow_html=True
     )
+# python -m streamlit run app.py
